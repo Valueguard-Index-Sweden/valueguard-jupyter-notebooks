@@ -3,9 +3,10 @@
 # valueguard jupyter notebooks
 ### Data science notebooks for housing analysis in Swedens
 
+#### About
 Notebooks examples on how to interact with the Valueguard API
 
-[Valueguard python client documentation](https://github.com/Valueguard-Index-Sweden/valueguard-python-client/wiki)
+Data source: [Valueguard python client documentation](https://github.com/Valueguard-Index-Sweden/valueguard-python-client/wiki)
 
 ## Notebooks
 
@@ -51,6 +52,21 @@ Notebooks examples on how to interact with the Valueguard API
 
 #### Ad broker
 * Get ad broker statistics
+
+### Open data
+
+> OBS! Använd gärna våra prisindex i intern kommunikation och presentationer men de får ej användas i kommersiellt syfte utan vår uttryckliga tillåtelse.
+
+
+#### Index
+
+* Get the Valueguard index 
+
+
+#### News
+
+* Get the latest valueguard news
+* Get publication dates
 
 ## Installation
 
