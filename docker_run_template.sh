@@ -18,4 +18,5 @@ docker run -d --name="$VG_JUPYTER_CONTAINER_NAME" -p$VG_JUPYTER_CONTAINER_PORT:8
        -e JUPYTER_TOKEN="$VG_JUPYTER_CONTAINER_TOKEN" \
        -e VALUEGUARD_API_USERNAME="$VALUEGUARD_API_USERNAME" -e VALUEGUARD_API_PASSWORD="$VALUEGUARD_API_PASSWORD" \
        -v "$PWD/notebooks":/home/jovyan/work \
+       -v "$PWD/data":/home/jovyan/data \
        jupyter/datascience-notebook
