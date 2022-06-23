@@ -14,7 +14,7 @@ Documentation about the API: [Valueguard python client documentation](https://gi
 
 ####  Residential Registry
 
-* [Residential registry (Full download)](./notebooks/valueguard_api/residential_registry/residential_registry_full_download.ipynb)
+* [Residential_registry (Full download)](./notebooks/valueguard_api/residential_registry/residential_registry_full_download.ipynb)
 * [Residential_registry_markups (Update from public data)](./notebooks/valueguard_api/residential_registry/residential_registry_full_download.ipynb)
 
 ## Installation
