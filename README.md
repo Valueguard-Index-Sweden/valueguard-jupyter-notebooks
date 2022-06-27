@@ -20,7 +20,7 @@ Documentation about the API: [Valueguard python client documentation](https://gi
 ## Installation
 
 ### Run it from Docker (Linux)
-1. Copy **docker_run_template.sh** to **docker_run.sh**  ```bash
+1. Copy **docker_run_template.sh** to **docker_run.sh**  ```
 cp docker_run_template.sh docker_run.sh```
 2. Change the variables in `docker_run.sh`
 3. Make it executable. `chmod +x ./docker_run.sh`
